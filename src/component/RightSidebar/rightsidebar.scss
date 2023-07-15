@@ -1,0 +1,51 @@
+.rightSidebar{
+    padding: 20px 40px;
+    width: 310px;
+    height: 90vh;
+    position: relative;
+    top: 0;
+    left: 0;
+    overflow: scroll;
+    position: sticky;
+}
+.trends-menu{
+    background-color: #F7F9F9;
+    padding: 10px 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.setting{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.setting>h3{
+    font-size: 24px;
+}
+.show{
+    color: #1DA1F2;
+    font-size: 18px;
+}
+.like{
+    background-color: #F7F9F9;
+    padding: 10px 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+
+}
+.follow_menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.span_menu{
+    width: 330px;
+    color: #536471;
+    padding-top: 20px;
+}
+.span_menu>span{
+    margin-left: 10px;
+    font-weight: 400;
+}

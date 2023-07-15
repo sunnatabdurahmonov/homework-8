@@ -1,0 +1,32 @@
+header{
+    width: 690px;
+    overflow: scroll;
+    height: 100vh;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: none;
+    border:  1px solid #D8D8D8;
+    padding: 15px 15px;
+    border-bottom: none;
+}
+.container{
+    width: 670px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.close{
+    padding: 10px;
+    background-color: #1D9BF0;
+    width: 80px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.close:hover{
+    background-color: white;
+    color: #1D9BF0;
+    border: 1px solid #1D9BF0;
+}

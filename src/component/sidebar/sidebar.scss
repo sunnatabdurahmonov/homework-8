@@ -1,0 +1,22 @@
+.sidebarLink-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 20px;
+    width: 268px;
+    height: 90vh;
+    position: relative;
+    overflow: scroll;
+    top: 0;
+    left: 0;
+    position: sticky;
+}
+.bobur{
+    text-decoration: none;
+}
+.bobur_name{
+    display: flex;
+    padding-top:100px;
+    align-items: center;
+    column-gap: 30px;
+}

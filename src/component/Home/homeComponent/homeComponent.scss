@@ -1,0 +1,35 @@
+.tweet-menu{
+    border:  1px solid #D8D8D8;
+    padding: 15px 15px;
+    
+}
+.bobur-img{
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+.bobur-img>h3{
+    color: #828282;
+    font-size: 22px;
+    font-weight: 600;
+}
+.tweet{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    background-color: #1DA1F2;
+    width: 108px;
+    padding: 15px;
+    border-radius: 120px;
+    border: none;
+    opacity: 40%;
+    height: 50px;
+    color: white;
+}
+.tweet_img{
+    padding-left: 60px;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}

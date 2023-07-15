@@ -1,0 +1,61 @@
+section{
+    width: 690px;
+    overflow: scroll;
+    height: 100vh;
+    padding: 20px;
+    position: relative;
+    border: 1px solid #D8D8D8;
+    margin: 0;
+    padding: 0;
+}
+.section{
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    padding: 10px;
+}
+.section-card{
+    padding: 20px;
+}
+.text>h3{
+    margin: 0;
+    padding: 0;
+}
+.text>span{
+    color: #000000;
+    opacity: 60%;
+    font-size: 16px;
+}
+.section_menu{
+    display: flex;
+    justify-content: flex-end;
+}
+.section_img{
+    width: 690px; 
+    padding-top: 20px;
+    margin: 0 auto;
+}
+.section_bobur{
+    position: absolute;
+    bottom: 53%;
+    left:40px;
+}
+.btn-bobur{
+    display: flex;
+    justify-content: end;
+}
+.button{
+    padding-top: 20px;
+    padding-right: 10px;
+}
+.pin{
+    padding-left: 60px;
+    display: flex;
+    align-items: center;
+    column-gap: 7px;
+    color: 
+    #536471;
+}
+.list-commant{
+    padding-top: 20px;
+}

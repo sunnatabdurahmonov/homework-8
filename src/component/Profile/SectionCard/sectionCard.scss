@@ -1,0 +1,41 @@
+.section_card{
+    border-bottom: 1px solid #D8D8D8;
+}
+.bobur>h3{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+.span{
+    color: #000000;
+    opacity: 60%;
+    font-size: 18px;
+}
+.email-span{
+    color: #1DA1F2;
+}
+.icon-menu{
+    display: flex;
+    column-gap: 8px;
+    align-items: center;
+}
+.bobur{
+    margin-top: 40px;
+}
+.follow{
+    display: flex;
+    align-items: center;
+}
+.follow>p{
+    font-weight: 700;
+}
+.tweets-menu{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.tweets-span{
+    font-weight: 700;
+    border-bottom: 4px solid 
+    #1DA1F2;
+}
